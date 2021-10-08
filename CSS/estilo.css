@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(83, 110, 82);
+    background-color: rgb(85, 55, 24);
 }
 .container{
-    margin-top:20px;
+    margin-top:60px;
     border-radius: 15px;
 }
 a{
@@ -14,4 +14,20 @@ p{
 }
 h2{
     font-size: 1.9em;
+}
+.nav-item2{
+    padding-bottom: 20px;
+}
+.img-fluid{
+    padding-top: 50px;
+}
+
+.container h2{
+    padding-bottom: 40px;
+}
+.nav-link2{
+    font-family: "Sofia", sans-serif;
+}
+.nav-link2:hover{
+color:aliceblue;
 }
