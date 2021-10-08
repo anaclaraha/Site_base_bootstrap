@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 body{
-    background-color: rgb(85, 55, 24);
+    background-color: rgb(66, 32, 16);
+    font-family: 'Poppins', sans-serif;
 }
 .container{
     margin-top:60px;
@@ -10,10 +12,16 @@ a{
     font-size: 1.5em
 }
 p{
-    font-size: 1.4em;
+    font-size: 1.2em;
+    color: black;
+}
+h1{
+    font-size: 4.9em;
+    color: black;
 }
 h2{
-    font-size: 1.9em;
+    font-size: 1.6em;
+    color: black;
 }
 .nav-item2{
     padding-bottom: 20px;
@@ -23,11 +31,11 @@ h2{
 }
 
 .container h2{
-    padding-bottom: 40px;
-}
-.nav-link2{
-    font-family: "Sofia", sans-serif;
+    padding-bottom: 10px;
 }
 .nav-link2:hover{
-color:aliceblue;
+color:rgb(230, 130, 48);
+}
+#Sobre {
+    margin-top: 30px;
 }
